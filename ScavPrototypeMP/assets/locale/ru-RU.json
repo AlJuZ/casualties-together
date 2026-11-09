@@ -420,7 +420,7 @@
   "casualtiestogether_declined": "declined",
   "casualtiestogether_giveitem_noitem": "item disappeared?",
   "casualtiestogether_multiplayer": "Multiplayer", // Important
-
+  //sus
   // Player death messages, it's possible to add any number of them.
   "casualtiestogether_plrdeath": "died",
   "casualtiestogether_plrdeath0": "'s life ended",
