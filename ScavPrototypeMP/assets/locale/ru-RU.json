@@ -1,4 +1,4 @@
-{
+{ //переделать в начале "мультиплеер" и доработать строки 3 14 15 53 60 69 94 208 (Diman goida to 265)
   "casualtiestogether_loaderror_possible_nonascii_path": "Убедитесь, что в пути к игре используются только английские символы:",
   "casualtiestogether_plr_finished_tutorial": "Просто закончил обучение.",
   "casualtiestogether_host_started_tutorial": "Хост запускает обучение.",
