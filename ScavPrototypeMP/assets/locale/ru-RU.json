@@ -1,4 +1,4 @@
-{ //переделать в начале "мультиплеер" и доработать строки 3 14 15 53 60 69 94 208 (Diman goida to 265)
+{ //переделать в начале "мультиплеер" и доработать строки 3 14 15 53 60 69 94 208 (Diman goida to 265) также посмотреть наличие кривых падежей склонений
   "casualtiestogether_loaderror_possible_nonascii_path": "Убедитесь, что в пути к игре используются только английские символы:",
   "casualtiestogether_plr_finished_tutorial": "Просто закончил обучение.",
   "casualtiestogether_host_started_tutorial": "Хост запускает обучение.",
@@ -17,7 +17,7 @@
   "casualtiestogether_server_pause": "| СЕРВЕР |\nИгра приостановлена.",
   "casualtiestogether_vote_result": "Результаты голосования:",
   "casualtiestogether_plr_joined": "присоединился к игре!",
-  "casualtiestogether_plr_left": "отключено.",
+  "casualtiestogether_plr_left": "отключился.",
   "casualtiestogether_auto_minimum_to_start": "минимум игроков для начала.",
   "casualtiestogether_plr_started_drillpod": "{0} запустил буровую капсулу.",
   "casualtiestogether_all_started_drillpod": "Буровая капсула запущена",
